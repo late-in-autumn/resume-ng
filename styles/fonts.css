@@ -1,0 +1,11 @@
+/**
+ * Users: this style sheet contains an link to my TypeKit web fonts project
+ * Please change the import URL to your own before deploying this project
+ * Thank you
+**/
+
+@import url("https://use.typekit.net/ves0fqn.css");
+
+body {
+   font-family: source-sans-pro, sans-serif;
+}

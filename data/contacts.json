@@ -1,0 +1,27 @@
+[
+   {
+      "tag": "Email",
+      "isEmail": true,
+      "value": "tombu@tombu.info"
+   },
+   {
+      "tag": "GitHub",
+      "isEmail": false,
+      "value": "https://github.com/late-in-autumn/"
+   },
+   {
+      "tag": "GitLab",
+      "isEmail": false,
+      "value": "https://gitlab.com/late-in-autumn/"
+   },
+   {
+      "tag": "LinkedIn",
+      "isEmail": false,
+      "value": "https://www.linkedin.com/in/sijie-tom-bu/"
+   },
+   {
+      "tag": "Blog",
+      "isEmail": false,
+      "value": "https://www.tombu.biz/"
+   }
+]

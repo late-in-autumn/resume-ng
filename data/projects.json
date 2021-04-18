@@ -1,0 +1,35 @@
+[
+   {
+      "title": "Scalable, Cloud-Native Hybrid Private Network",
+      "duration": "June 2020 - present",
+      "description": "Built a Linux-based, software defined network linking local and cloud server instanced. Implemented zero-trust across the network, and allowed unified access of networked resources."
+   },
+   {
+      "title": "3D-Graphics and Rendering",
+      "duration": "January - April 2021",
+      "description": "Implemented a OpenGL-like software graphics rendering library in C++. Lead a three-member team and added shadow mapping function to the base rendering library."
+   },
+   {
+      "title": "Mobile Game: Angry Defense",
+      "duration": "September - December 2020",
+      "description": "Built an Angry Birds-inspired turn-based physics game using Unity with a team, leading the implementation of game logic, physics, and telemetry. Conducted data analysis with Power BI.",
+      "url": "http://codebenders.tombu.info/"
+   },
+   {
+      "title": "Computer Graphics",
+      "duration": "August - November 2020",
+      "description": "Implemented a height mapper and an animated roller coaster in C++ and OpenGL. Implemented a simple software ray tracer in C++."
+   },
+   {
+      "title": "Mobile Game: Elementally",
+      "duration": "May - July 2020",
+      "description": "Built a Monument Valley-inspired physics game using Unity with a team, focusing on core game logic, DevOps, and integration testing.",
+      "url": "http://elementally.tombu.info/"
+   },
+   {
+      "title": "Multimedia Systems Design",
+      "duration": "January - May 2020",
+      "description": "Built a media file synapse image generator using .NET Core, Egmu CV, ImageMagick, and FFmpeg. Implemented various image processing and compression algorithms.",
+      "url": "https://github.com/late-in-autumn/media-synapse/"
+   }
+]

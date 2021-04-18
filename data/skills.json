@@ -1,0 +1,49 @@
+[
+   {
+      "type": "Programming Languages",
+      "items": [
+         "C#",
+         "Java",
+         "C++",
+         "Python",
+         "JavaScript",
+         "CSS",
+         "HTML"
+      ]
+   },
+   {
+      "type": "Frameworks and Development Tools",
+      "items": [
+         "Unity 3D",
+         "React",
+         "Git",
+         "GitHub"
+      ]
+   },
+   {
+      "type": "Operating Systems",
+      "items": [
+         "Arch Linux",
+         "Debian",
+         "Proxmox VE",
+         "Ubuntu",
+         "Windows"
+      ]
+   },
+   {
+      "type": "Databases",
+      "items": [
+         "Oracle",
+         "MySQL",
+         "MongoDB"
+      ]
+   },
+   {
+      "type": "Media Production",
+      "items": [
+         "Adobe Photoshop",
+         "Affinity Photo",
+         "DaVinci Resolve"
+      ]
+   }
+]

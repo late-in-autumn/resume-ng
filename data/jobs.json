@@ -1,0 +1,40 @@
+[
+   {
+      "employer": {
+         "name": "Yangtze Memory Technologies Corp.",
+         "location": "Wuhan, China",
+         "url": "http://www.ymtc.com/"
+      },
+      "position": "SWE Intern",
+      "duration": "August - December 2019",
+      "descriptions": [
+         "Prototyped a document management system with Java EE, Oracle DB, and Apache Solr. This system enabled customized document management workflow and allowed users to search documents using the preferred criteria.",
+         "Maintained and extended line-of-business applications built with .NET Framework. Such applications enabled production engineers to easily retrieve, store, and visualize data from production stages. These applications also integrated support for factory floor equipment and removed the dependency on vendor software."
+      ]
+   },
+   {
+      "employer": {
+         "name": "Beijing Aixiazi Tech Development Co,. Ltd.,",
+         "location": "Beijing, China",
+         "url": "http://www.hao315.com/"
+      },
+      "position": "Frontend SWE Intern",
+      "duration": "July 2018",
+      "descriptions": [
+         "Worked on various frontend development, deployment, and system administration tasks."
+      ]
+   },
+   {
+      "employer": {
+         "name": "Fusion Media Department, Hubei Daily Media Group",
+         "location": "Wuhan, China",
+         "url": "https://www.hubeidaily.net/"
+      },
+      "position": "Journalist Intern",
+      "duration": "June 2018",
+      "descriptions": [
+         "Worked on field reporting and visual media production.",
+         "Products included short video reportages and photographs."
+      ]
+   }
+]
