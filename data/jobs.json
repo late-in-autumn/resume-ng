@@ -1,6 +1,19 @@
 [
    {
       "employer": {
+         "name": "CIP United",
+         "location": "Remote",
+         "url": "https://www.cipunited.com/"
+      },
+      "position": "SWE Intern",
+      "duration": "May 2021 - present",
+      "descriptions": [
+         "Ported Arch Linux to the MIPS64 r6 architecture.",
+         "Fixed bugs in open source software that were outdated or incompatible with MIPS64 r6."
+      ]
+   },
+   {
+      "employer": {
          "name": "Yangtze Memory Technologies Corp.",
          "location": "Wuhan, China",
          "url": "http://www.ymtc.com/"
