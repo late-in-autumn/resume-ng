@@ -5,11 +5,12 @@
          "location": "Remote",
          "url": "https://www.cipunited.com/"
       },
-      "position": "SWE Intern",
+      "position": "SWE Intern (Open-Source Ecosystems)",
       "duration": "May 2021 - present",
       "descriptions": [
-         "Ported Arch Linux to the MIPS64 r6 architecture.",
-         "Fixed bugs in open source software that were outdated or incompatible with MIPS64 r6."
+         "Bootstrapped and maintained an Arch Linux system targeting the MIPS64 r6 (little endian) architecture.",
+         "Maintained various tools and utility packages to the MIPS64 r6 Arch Linux system.",
+         "Involved in identifying and fixing MIPS-specific bugs of upstream open-source projects."
       ]
    },
    {
